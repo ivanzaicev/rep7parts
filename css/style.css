@@ -1,0 +1,94 @@
+
+
+.navbar-default {
+	background-color: #F8F8F8;
+	border-color: #E7E7E7;
+}
+
+./navbar-default .navbar-brand {
+	color: #777;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+	color:#5E5E5E;
+}
+
+
+
+.headercolor {
+	background-color: black;
+
+}
+
+.container{
+	padding-bottom: 1px;
+	background-color: black;
+	border-bottom-style:solid;
+	border-color: yellow;
+	border-width:1px;
+	
+}
+
+
+#but-search {
+	background-image:url(images/linz.png)
+	left:50%;
+	width:28px;
+	height: 20px;
+	background-size: 43px auto;
+	margin: -7px -14px;
+}
+
+.glyphicon-align-justify{
+  color: yellow;
+}
+
+body{
+	background-color:black; 
+}
+
+.btn-mymenu{
+	margin: 1px;
+	padding-top:20px;
+	font-size: 50px;
+	background-color:black; 	
+	border-width: 1px;
+	border-style: none;
+	border-color: yellow;
+}
+
+.btn-project{
+	background-color: yellow;
+	font-size: 24px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+.drop{
+	position: absolute;
+	background-color: black;
+	margin: 5px;
+	left: 120px;
+
+}
+
+.drop > li > a:hover,
+.drop > li > a:focus {
+  color: pink;
+  text-decoration: none;
+  background-color: inherit;
+  border-width: 1px;
+  border-bottom-style: solid;
+  border-color: yellow;
+}
+
+
+.drop > li > a {
+
+	color: yellow;
+	margin: 5px;
+	font-size: 20px;
+}
+
+
